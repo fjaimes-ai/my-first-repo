@@ -1,0 +1,13 @@
+.image {
+  border: 2px solid black;
+  background-color: aqua;
+  width: 500px;
+  margin: 0 auto;
+  display: block;
+  box-shadow: 10px 5px 5px red;
+}
+
+.text {
+    font-family: 'Franklin Gothic Medium';
+    color: crimson;
+}
